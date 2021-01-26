@@ -1,0 +1,10 @@
+Ruby:HEAD SHA-1 checksum
+C:HEAD SHA-1 checksum
+TypeScript: SHA-1 checksum
+C#: SHA-1 checksum
+C++: SHA-1 checksum
+PHP: SHA-1 checksum
+Phyton: SHA-1 checksum
+Java: SAH-1 checksum
+JavaScript: SHA-1 checksum
+C: SHA-1 checksum
